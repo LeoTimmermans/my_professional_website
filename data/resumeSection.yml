@@ -1,0 +1,111 @@
+---
+enable: true
+topTitle: Mijn achtergrond
+title: >
+  ## Mijn ervaring en opleidingen
+
+  Meer dan 20 jaar ervaring nuttige (beslis)informatie uit data halen.
+
+buttonName: "Home"
+buttonTarget: "#home"
+
+tab1Name: Ervaring
+tab2Name: Opleidingen
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Data Scientist
+      
+      #### [OTTO Workforce](https://www.ottoworkforce.eu/) 
+      
+      - Oplossing ontwikkelt die __€ 1 miljoen op jaarbasis__ bespaart op de transportkosten en schaalbaar is met de groei van de organisatie.
+      
+      - Oplossing ontwikkelt die __een belangrijk concurrentievoordeel__ op heeft geleverd tijdens de invoering van de Wet Arbeidsmarkt in Balans (WAB). 
+      
+      - Al in het 2e kwartaal dat ik bij OTTO werkte uitgeroepen tot __Topper van het kwartaal__ voor dat kwartaal.
+    time: 2019-Heden
+  - content: >
+      ### Data en Business Analist
+      
+      #### [NMG Vastgoed](https://www.nmg.nl) (toen ACM Vastgoed Management)
+
+      - Door slim gebruik te maken van data en beschikbare tools een schaalbare oplossing gemaakt om het aantal e-mails bij mutatie met __3 per mutatie__ te verminderen, met de mogelijk dit ook voor andere onderdelen in te zetten.  
+      
+      - Optimalisatietechniek ingezet om inplannen van opzichters makkelijker en beter te maken.    
+      
+      - Implementatie van en migratie naar Qlik begeleid + dashboards en (automatische rapportages) ontwikkeld.  
+      
+      - Diverse woningmarktadviesen, die sterk op data gestoeld zijn.  
+    time: 2014-2019
+
+  - content: >
+      ### Diverse functies 
+
+      #### [Woonwenz](https://www.woonwenz.nl)
+
+      - Plan voor transitie naar 'wensportefeuille 2030' gemaakt. Ca. 10 jaar later zie ik __nog steeds berichten in de media__ die het gevolg zijn van dit plan. 
+      
+      - Mede ontwikkelen en professionaliseren van het strategisch voorraad beleid (tegenwoordig Asset Management).
+      
+      - Data analyse met betrekking tot woningmarkt vraagstukken, waaronder __onderzoeken van de woningbehoefte in 2030.__
+      
+      - Succesvolle plannen voor ontwikkeling en vermarkten van grote nieuwbouwprojecten.
+    time: 2005-2014   
+  - content: >
+      ### Diverse functies 
+
+      #### [NMG Vastgoed](https://www.nmg.nl) (toen Verbeek Vastgoed Management)
+
+      - __Erg goed gewaardeerde__ analyses en woningmarktplannen gemaakt onderbouwd met interne en externe data. 
+      __Efficiency__ in het opstellen van derlijke rapporten tot __50% verhoogd__.
+      
+      - Productiviteit verhogen door __slim automatisering__ in te zetten. Reductie van benodigde tijd __tot 80%__.
+      
+      - Ontsluiten van de bedrijfsdatabase en ontwikkelen van rapportages op maat.
+    time: 2000-2005   
+  - content: >
+      ### Diverse verkoop functies 
+
+      #### Heldense Exclusive & Holco  
+    time: 1994-2000 
+  
+
+
+education:
+  - content: >
+      #### [5 Course R-Track](https://www.business-science.io/)
+
+      Business Science University
+      
+    time: 2020 - 2022
+  - content: >
+      #### [Data Science and Big Data Analytics: Making Data-Driven Decisions](https://prolearn.mit.edu/data-science-and-big-data-analytics-making-data-driven-decisions)
+
+      MIT Professional & Executive Learning
+    
+    time: 2018
+  - content: >
+      #### [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+
+      Coursera
+    time: 2017
+  - content: >
+      #### Opleiding tot Woningmarktconsultant
+
+      NVM SOM
+    time: 2012
+  - content: >
+      #### Commercieel Vastgoedmanagement
+
+      Hanzehogeschool Groningen
+    time: 2012
+  - content: >
+      #### Bedrijfseconomie, specialisatie Marketing & Marktonderzoek
+
+      Tilburg University
+    time: 1992
+  

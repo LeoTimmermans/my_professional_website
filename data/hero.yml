@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: Data Scientist / Business Scientist
+content: >
+  # Hallo, ik ben Leo
+
+  Leo houdt ervan om (ruwe) data om te zetten naar nuttige informatie, waarop 
+  acties uitgevoerd of beslissingen genomen kunnen worden.  
+  
+  Leo haalt energie uit het bijdragen aan de doelen, bij voorkeur met een maatschappelijke component.
+  
+# buttonName: Neem contact op
+# buttonIcon: 'fa fa-envelope'
+# buttonURL: "#contact"
+image: images/hero/leo_timmermans_340.jpg
+# videoThumb: images/hero/data-science.gif
+# videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU

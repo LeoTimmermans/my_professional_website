@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: Over
+title: >
+  ## Wie is Leo?
+
+  Leo Timmermans is al ruim 20 jaar gefascineerd door hoe je van data informatie kunt maken die (bedrijfs)beslissingen ondersteunt.
+content: >
+  ### Ik zet data uitdagingen om in resultaten.
+
+  Het is fantastisch om telkens opnieuw te ontdekken hoeveel nuttige informatie er in data besloten kan liggen.
+  
+  
+  Ik focus me daarbij op het resultaat en de bijdrage die dit resultaat levert. Data Science en Data Analyse zijn middelen om dit doel te bereiken.
+button1Name: LinkedIn
+button2Name: Home
+button1Target: https://www.linkedin.com/in/ljjtimmermans/
+# button2Target: "/cv/resume-matt.pdf"
+image: images/hero/leo_timmermans_340.jpg
+imageMaskPosition: 70px 0px
