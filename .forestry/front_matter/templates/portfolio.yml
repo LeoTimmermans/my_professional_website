@@ -1,0 +1,25 @@
+---
+label: portfolio
+hide_body: false
+fields:
+- type: text
+  name: categorieën
+  label: categorieën
+- type: text
+  name: Uitdaging
+  label: Uitdaging
+- type: text
+  name: project
+  label: project
+- type: text
+  name: shortDescription
+  label: shortDescription
+- type: textarea
+  name: Oplossing
+  label: Oplossing
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: title
+  label: title
